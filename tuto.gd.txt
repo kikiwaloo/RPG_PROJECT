@@ -1,0 +1,5 @@
+1
+2
+3
+4 func _ready():
+	print("hello world")
